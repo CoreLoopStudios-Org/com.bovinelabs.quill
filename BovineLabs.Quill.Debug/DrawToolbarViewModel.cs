@@ -10,7 +10,6 @@ namespace BovineLabs.Quill.Debug
     using System.ComponentModel;
     using BovineLabs.Anchor;
     using BovineLabs.Anchor.Binding;
-    using BovineLabs.Anchor.Contracts;
     using BovineLabs.Core.Extensions;
     using Unity.AppUI.UI;
     using Unity.Collections;
@@ -245,4 +244,5 @@ namespace BovineLabs.Quill.Debug
         }
     }
 }
+
 #endif
